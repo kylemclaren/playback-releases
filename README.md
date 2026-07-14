@@ -9,7 +9,8 @@ build anonymously.
 ## What's here
 
 - **`appcast.xml`** — the Sparkle feed, served via GitHub Pages at
-  <https://kylemclaren.github.io/reel-releases/appcast.xml> (this is the
+  <https://raw.githubusercontent.com/kylemclaren/reel-releases/main/appcast.xml>
+  (served straight from `main` via `raw.githubusercontent.com` — this is the
   `SUFeedURL` baked into every shipped build's `Info.plist`).
 - **Release binaries** — each notarized `Reel-<version>.zip` is attached as a
   **GitHub Release asset** on its version tag, e.g.

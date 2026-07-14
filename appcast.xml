@@ -11,7 +11,7 @@
      xmlns:reel="https://reel.app/appcast">
     <channel>
         <title>Reel</title>
-        <link>https://kylemclaren.github.io/reel-releases/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/kylemclaren/reel-releases/main/appcast.xml</link>
         <description>Sparkle update feed for Reel.</description>
         <language>en</language>
     </channel>
