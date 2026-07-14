@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Placeholder Sparkle feed. Zero <item> elements => clients check and find
+  "no update available" (rather than a 404) until the first real release.
+  Do NOT hand-edit: scripts/appcast.sh in the main `reel` repo regenerates
+  and EdDSA-signs this file. Namespaces are declared here so the generated
+  feed's shape stays consistent.
+-->
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:reel="https://reel.app/appcast">
+    <channel>
+        <title>Reel</title>
+        <link>https://kylemclaren.github.io/reel-releases/appcast.xml</link>
+        <description>Sparkle update feed for Reel.</description>
+        <language>en</language>
+    </channel>
+</rss>
