@@ -3,6 +3,19 @@
     <channel>
         <title>Playback</title>
         <item>
+            <title>0.1.0-beta.2</title>
+            <pubDate>Tue, 21 Jul 2026 01:02:50 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.2.zip" length="12669155" type="application/octet-stream" sparkle:edSignature="oZ6EivR6wMYKijInm7lKYWponYLavvP3t6paygq2X5biSCGsvepbwmcaB52RtMQ/hGg65mXAih71RUBdWq0TDg==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback3-2.delta" sparkle:deltaFrom="2" length="737854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I9WTc4MdBsZhC1yqO2lgbAf0XYogrjnU3KkDFP35yJlbonYTvjXEF0rJd6L24XD9Upx5mdg3uhd+mg1MqU/rBg==" />
+            </sparkle:deltas>
+        <playback:releaseDate>2026-07-20T23:00:47Z</playback:releaseDate>
+        </item>
+        <item>
             <title>0.1.0-beta.1</title>
             <pubDate>Tue, 21 Jul 2026 00:04:22 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -10,7 +23,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.1.zip" length="12646348" type="application/octet-stream" sparkle:edSignature="CI0IbWSSNhxRZM8NaR/TtbBWy+fxmKSnn2P5BG2OvG+75TCKQwFp5xJi4JWa0dQEbvDM8fbx4ZNljqtCL5GzDw==" />
-        <playback:releaseDate>2026-07-20T21:59:25Z</playback:releaseDate>
+            <playback:releaseDate>2026-07-20T21:59:25Z</playback:releaseDate>
         </item>
     </channel>
 </rss>
