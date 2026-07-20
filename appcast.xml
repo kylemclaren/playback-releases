@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--
-  Placeholder Sparkle feed. Zero <item> elements => clients check and find
-  "no update available" (rather than a 404) until the first real release.
-  Do NOT hand-edit: scripts/appcast.sh in the main `playback` repo regenerates
-  and EdDSA-signs this file. Namespaces are declared here so the generated
-  feed's shape stays consistent.
--->
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:playback="https://playback.app/appcast">
+<rss xmlns:playback="https://playback.app/appcast" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Playback</title>
-        <link>https://raw.githubusercontent.com/kylemclaren/playback-releases/main/appcast.xml</link>
-        <description>Sparkle update feed for Playback.</description>
-        <language>en</language>
+        <item>
+            <title>0.1.0-beta.1</title>
+            <pubDate>Tue, 21 Jul 2026 00:04:22 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.1.zip" length="12646348" type="application/octet-stream" sparkle:edSignature="CI0IbWSSNhxRZM8NaR/TtbBWy+fxmKSnn2P5BG2OvG+75TCKQwFp5xJi4JWa0dQEbvDM8fbx4ZNljqtCL5GzDw==" />
+        <playback:releaseDate>2026-07-20T21:59:25Z</playback:releaseDate>
+        </item>
     </channel>
 </rss>
