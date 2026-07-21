@@ -3,6 +3,22 @@
     <channel>
         <title>Playback</title>
         <item>
+            <title>0.1.0-beta.5</title>
+            <pubDate>Tue, 21 Jul 2026 13:07:38 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.5.zip" length="13574324" type="application/octet-stream" sparkle:edSignature="vOzBgsrSHDAjkIBEL7J5WfZ8FBnbDiCZieYT+t4ZKl5Z9twHNUDIKVIvIMCzZeFvuQhCbrWLpk08zWLtolzSDg==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback6-5.delta" sparkle:deltaFrom="5" length="871070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eMdN2hi1rw3dZDczk+eSm3QUR4eOvNO37ikg6Dk4+2SQUBZd/h8MBYVA6OzbRLeBig51uOpXZ73HpRkHog+2Bg==" />
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback6-4.delta" sparkle:deltaFrom="4" length="1063626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T2nsgnSSD42zroLaEL+FNKuziYX1MAU045PwfInissPaP8g48b2nXeakaACjiJdqVA/OS4KqaTagHQSkmgdXBw==" />
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback6-3.delta" sparkle:deltaFrom="3" length="1499926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sNcXtLczwAorFF5r8hGSZBqDkFXDgo37XXPU1cCfgT6bQ6f6g4vnsAQZIM+cEwnvV6MVMuHafSAhyD8HnzzeDA==" />
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback6-2.delta" sparkle:deltaFrom="2" length="1572666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r9/Dzd/kJtYjx8xfczjW5JlTRTHB7W3Flk75HL0G+XE6fDmO1VUrEg/VRB7LXixk5hU2aAYeKqF2IrL7vUgZDA==" />
+            </sparkle:deltas>
+        <playback:releaseDate>2026-07-21T11:05:17Z</playback:releaseDate>
+        </item>
+        <item>
             <title>0.1.0-beta.4</title>
             <pubDate>Tue, 21 Jul 2026 01:45:47 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -15,7 +31,7 @@
                 <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback5-3.delta" sparkle:deltaFrom="3" length="1384374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tu1Niti1riwxwDqFxM4XpPlgYzJ1jPxVz22lY+0AhW0g8lPWwEVGHnUB4h8JNDl2QPD1wCl47NwsT3Vr+KKkCQ==" />
                 <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback5-2.delta" sparkle:deltaFrom="2" length="1423554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/qManu9fE/85IQXDVJXxqGZy/4d7awjryUfuJDvjQvXvIcXOFCd6g6Qb8RKbGqJ9lxF2De6f/r2G02AjuGMoBg==" />
             </sparkle:deltas>
-        <playback:releaseDate>2026-07-20T23:43:36Z</playback:releaseDate>
+            <playback:releaseDate>2026-07-20T23:43:36Z</playback:releaseDate>
         </item>
         <item>
             <title>0.1.0-beta.3</title>
@@ -30,19 +46,6 @@
                 <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback4-2.delta" sparkle:deltaFrom="2" length="1368270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9Q/qpVe4Us7Q7Sl7r4C9VGWDEyPZraCz/eB4YlXjnE5XHbQNYI6XnnkcHH5hxnu6RphzdbGXct1iKTEkoZW5DA==" />
             </sparkle:deltas>
             <playback:releaseDate>2026-07-20T23:23:05Z</playback:releaseDate>
-        </item>
-        <item>
-            <title>0.1.0-beta.2</title>
-            <pubDate>Tue, 21 Jul 2026 01:02:50 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.2.zip" length="12669155" type="application/octet-stream" sparkle:edSignature="oZ6EivR6wMYKijInm7lKYWponYLavvP3t6paygq2X5biSCGsvepbwmcaB52RtMQ/hGg65mXAih71RUBdWq0TDg==" />
-            <sparkle:deltas>
-                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback3-2.delta" sparkle:deltaFrom="2" length="737854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I9WTc4MdBsZhC1yqO2lgbAf0XYogrjnU3KkDFP35yJlbonYTvjXEF0rJd6L24XD9Upx5mdg3uhd+mg1MqU/rBg==" />
-            </sparkle:deltas>
-            <playback:releaseDate>2026-07-20T23:00:47Z</playback:releaseDate>
         </item>
     </channel>
 </rss>
