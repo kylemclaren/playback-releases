@@ -3,14 +3,14 @@
     <channel>
         <title>Playback</title>
         <item>
-            <title>0.1.0-beta.13</title>
-            <pubDate>Wed, 29 Jul 2026 15:29:30 +0100</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.13</sparkle:shortVersionString>
+            <title>0.1.0-beta.14</title>
+            <pubDate>Wed, 26 Aug 2026 17:17:23 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.13.zip" length="13679665" type="application/octet-stream" sparkle:edSignature="kRq+m2XgaUJl09WY9+Je0ZPsdAwarNPuDmYmW5ZihE+U//HjltZaiihUDBeM/k03XNMg9QY4AEMGthzej1poBA==" />
-        <playback:releaseDate>2026-07-29T14:27:09Z</playback:releaseDate>
+            <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.14.zip" length="13724084" type="application/octet-stream" sparkle:edSignature="pVDoqkTjNiDCvHMiziTiGnSE1FUBxfTz4wpqnbLN4H5KFAniezuk57TrXg3yq32BBnDGqqIQyM0WWqPQfl2vBQ==" />
+        <playback:releaseDate>2026-08-26T15:14:52Z</playback:releaseDate>
         </item>
     </channel>
 </rss>
