@@ -3,6 +3,22 @@
     <channel>
         <title>Playback</title>
         <item>
+            <title>0.1.0-beta.19</title>
+            <pubDate>Wed, 11 Nov 2026 17:07:37 +0200</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.19.zip" length="27289895" type="application/octet-stream" sparkle:edSignature="Doq70RtaGQJ2mzKZkwEZk5c4lMY7O5tHEp28pFQ//qzvDXbs1bhXLSFacK9yzxl4Ez5/jAX3Yte4WRCQK/ekCw==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback20-19.delta" sparkle:deltaFrom="19" length="1332006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3rjlbZUXa4TM1UuKS/UGM92VE3ZA8flPVh0Lp8OvHvoiQdVUK0C5emsMkg2mgRcIO+VY8PMq4nvGleZCJYiGAg==" />
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback20-18.delta" sparkle:deltaFrom="18" length="1450058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BXBzgjQkQ6xNQQbcc5iGW3sChx5hBD94hKNYn25d0IqawESXGEfYNGQrS76W7SlPKFaJPys2OKZ+P4/BU7pIBQ==" />
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback20-17.delta" sparkle:deltaFrom="17" length="8468842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jeIHJ9jKAVdCvXYIvAgF1a/BpP9x0ZhTmNpvtcPiogl/m3xqGW/s+DQ+Gb522LtNfewTA9/+ay5+AhRHktrKDg==" />
+                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback20-16.delta" sparkle:deltaFrom="16" length="14949326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i5fCzK9pyspowE0rbDGChPoitg+McSDK+uok6XyT4POVyV9UdQspkHYj+OTwE7VbxA89/kj7nTDUgX/FCnekDQ==" />
+            </sparkle:deltas>
+        <playback:releaseDate>2026-11-11T15:05:08Z</playback:releaseDate>
+        </item>
+        <item>
             <title>0.1.0-beta.18</title>
             <pubDate>Mon, 09 Nov 2026 15:36:11 +0200</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -15,7 +31,7 @@
                 <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback19-17.delta" sparkle:deltaFrom="17" length="8292094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ulQyWj7PA41G09LszGGbnPG1XUz7s658AWHAvxgd4hKlkCn+qMS0pvY4ldLbfgTUg5xQyi81tMqNm18xZXtyCA==" />
                 <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback19-16.delta" sparkle:deltaFrom="16" length="14795910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aHk3zZQVvzE7XyjutUqqVzoRg/+7Z99ep/8s0cPV9DbaR3LwRL+Jci2MFix0aXd0w4y4OZiGcMM2uqzHXgZWCg==" />
             </sparkle:deltas>
-        <playback:releaseDate>2026-11-09T13:33:38Z</playback:releaseDate>
+            <playback:releaseDate>2026-11-09T13:33:38Z</playback:releaseDate>
         </item>
         <item>
             <title>0.1.0-beta.17</title>
@@ -30,20 +46,6 @@
                 <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback18-16.delta" sparkle:deltaFrom="16" length="14671358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ULbU823GlK+QMWEzB9LS+kMv682o9Znk70kjGpkU22A3SpMSJ/bUfWmoJWwVgqMER8DOUtSqLoexfFdGyvDRAw==" />
             </sparkle:deltas>
             <playback:releaseDate>2026-09-13T22:19:01Z</playback:releaseDate>
-        </item>
-        <item>
-            <title>0.1.0-beta.16</title>
-            <pubDate>Sun, 13 Sep 2026 14:38:13 +0200</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback-0.1.0-beta.16.zip" length="20189044" type="application/octet-stream" sparkle:edSignature="0XSDGJYpPE8lDEyZZ5AoK9EPc8Tzcgxi0/X4UDptnYKn9UFQS7T43W1TA1gntivlHHgQ8DuVxKVngPjaS/wpAA==" />
-            <sparkle:deltas>
-                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback17-16.delta" sparkle:deltaFrom="16" length="7604626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LHmEqA0TQQmgpwJB18iINasQyiM4W9nbAkBousG+uMkmtMZSHqkaFkur0VvuYyBbOLG+8K7AR3nSAM2pyp6kBA==" />
-                <enclosure url="https://github.com/kylemclaren/playback-releases/releases/download/updates/Playback17-15.delta" sparkle:deltaFrom="15" length="7627342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vVaUuJO5Z0vUINyhSlrNnj8MoHoUibtaGxJlfO335EejKzbiJmZ0tNQJM+SNlkkt7rLsig+o2ZTzU7MC36K1AQ==" />
-            </sparkle:deltas>
-            <playback:releaseDate>2026-09-13T12:34:42Z</playback:releaseDate>
         </item>
     </channel>
 </rss>
